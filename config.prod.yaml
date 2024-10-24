@@ -25,7 +25,7 @@ variables:
       # OBJECT ID FOR prod/PROD ADMIN TK ENTRA GROUP
       readwrite_source_id: 908f058f-1b46-4ae7-9a9e-a437ce0dbb6e
       # OBJECT ID FOR prod/PROD ADMIN TK ENTRA GROUP
-      readonly_source_id: 908f058f-1b46-4ae7-9a9e-a437ce0dbb6e
+      readonly_source_id: 144b3725-c829-4109-81ce-c0c2350badbd
       # OBJECT ID FOR prod/PROD ICAPI EXTRACTORS ENTRA GROUP
       icapi_extractors_source_id: 1d04c109-7a80-465d-820a-5885aea1bc3b
       # data_pipeline_oee : 0275a8b7-2bb3-4214-a8d4-c6359cac7113
